@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+#My name is Olexander, and I'm working as a manual QA engineer, and I plan to switch to Automation QA.
+Also, I consider the possibility of working as a General QA engineer.
+I have already completed the course 'Automated testing in Java' from EPAM and continue to practice with automation
 <!--
 **Olexandr29/Olexandr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
